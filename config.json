@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperselete",
+        "uuid": 8396472,
+        "checksum": "8whgx"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
